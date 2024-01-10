@@ -40,4 +40,4 @@ account1.withdraw(50)
 print(account1.display_balance())
 
 # Get the account details
-print(account1.get_account_details()
+print(account1.get_account_details())
